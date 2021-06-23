@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/belentoledo96/ms-course-youtube.git
+          uri: https://github.com/belentoledo96/Microservice-Spring-Boot-Spring-Cloud.git
           searchPaths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
